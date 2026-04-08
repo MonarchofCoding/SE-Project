@@ -345,12 +345,3 @@ VITE_SERVER_URL=http://localhost:3001
 7. **Admin Dashboard**: Monitor all active rides and user statistics
 8. **Mobile App**: React Native version for mobile deployment
 
-## License
-
-ISC
-
-## Author
-
-Campus Virtual Bus Development Team
-#   S E - P r o j e c t  
- 

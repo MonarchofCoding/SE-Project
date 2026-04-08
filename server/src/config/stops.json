@@ -1,0 +1,159 @@
+{
+  "stops": [
+    {
+      "stopId": "S001",
+      "name": "Main Gate",
+      "landmarks": "Primary entrance, near Dhanbad road, Gate security office, main campus entry"
+    },
+    {
+      "stopId": "S002",
+      "name": "Rosaline Hostel",
+      "landmarks": "Residential area, girl's hostel, North campus, near temple"
+    },
+    {
+      "stopId": "S003",
+      "name": "Ruby Hostel",
+      "landmarks": "Residential area, girl's hostel, North campus, near central location"
+    },
+    {
+      "stopId": "S004",
+      "name": "Ruby Mart",
+      "landmarks": "Shopping center, provisions store, canteen, central campus hub"
+    },
+    {
+      "stopId": "S005",
+      "name": "Central Library",
+      "landmarks": "Sardar Patel Library, academic hub, near Administrative Block, main academic building"
+    },
+    {
+      "stopId": "S006",
+      "name": "CDC",
+      "landmarks": "Career Development Center, placement hub, recruitment office, training center"
+    },
+    {
+      "stopId": "S007",
+      "name": "RD",
+      "landmarks": "Ram Dhani Tea stall, refreshment point, snack shop, near central campus area"
+    },
+    {
+      "stopId": "S008",
+      "name": "NLHC (New Leture Hall Complex)",
+      "landmarks": "Lecture halls, academic building, modern classrooms, near central library"
+    },
+    {
+      "stopId": "S009",
+      "name": "Jasper Hostel",
+      "landmarks": "Boy's hostel, residential area, accommodation facility, South campus"
+    },
+    {
+      "stopId": "S010",
+      "name": "Amber Hostel",
+      "landmarks": "Boy's hostel, residential area, accommodation facility, East campus"
+    },
+    {
+      "stopId": "S011",
+      "name": "Aquamarine Hostel",
+      "landmarks": "Boy's hostel, residential area, accommodation facility, West campus"
+    },
+    {
+      "stopId": "S012",
+      "name": "Sapphire Hostel",
+      "landmarks": "Boy's hostel, residential area, accommodation facility, North residential"
+    },
+    {
+      "stopId": "S013",
+      "name": "Diamond Hostel",
+      "landmarks": "Boy's hostel, residential area, accommodation facility, Central campus"
+    },
+    {
+      "stopId": "S014",
+      "name": "Petroleum Department",
+      "landmarks": "Petroleum Engineering block, academic department, near science block"
+    },
+    {
+      "stopId": "S015",
+      "name": "OAT (Open Air Theatre)",
+      "landmarks": "Outdoor venue, amphitheater, event space, near central campus area"
+    },
+    {
+      "stopId": "S016",
+      "name": "Penmen Auditorium",
+      "landmarks": "Main auditorium, events venue, seminar hall, central meeting point"
+    },
+    {
+      "stopId": "S017",
+      "name": "GJLT (Conference Hall)",
+      "landmarks": "Meeting room, conference facility, academic venue, near administrative block"
+    },
+    {
+      "stopId": "S018",
+      "name": "Upper Ground",
+      "landmarks": "Upper level plaza, common area, main quad, pedestrian zone"
+    },
+    {
+      "stopId": "S019",
+      "name": "Lower Ground",
+      "landmarks": "Lower level area, basement facility, underground complex, central campus"
+    },
+    {
+      "stopId": "S020",
+      "name": "CSE Department",
+      "landmarks": "Computer Science Department, IT block, academic facility, modern building"
+    },
+    {
+      "stopId": "S021",
+      "name": "Heritage Building",
+      "landmarks": "Historic structure, administrative office, heritage campus, near main gate"
+    },
+    {
+      "stopId": "S022",
+      "name": "AGP Department",
+      "landmarks": "Applied Geology & Petroleum, science block, academic department, research facility"
+    },
+    {
+      "stopId": "S023",
+      "name": "NAC (New Academic Complex)",
+      "landmarks": "Academic building, lecture halls, teaching facility, near central library"
+    },
+    {
+      "stopId": "S024",
+      "name": "Temple",
+      "landmarks": "Religious place, spiritual center, prayer hall, North campus"
+    },
+    {
+      "stopId": "S025",
+      "name": "Health Centre",
+      "landmarks": "Medical facility, health services, clinic, emergency services, healthcare hub"
+    },
+    {
+      "stopId": "S026",
+      "name": "Science Block",
+      "landmarks": "Science departments, laboratories, research facility, academic complex"
+    },
+    {
+      "stopId": "S027",
+      "name": "Environmental Engineering Department",
+      "landmarks": "Enviro dept, environmental science, academic facility, research labs"
+    },
+    {
+      "stopId": "S028",
+      "name": "Mechanical Engineering Department",
+      "landmarks": "Mech dept, mechanical labs, workshops, engineering block"
+    },
+    {
+      "stopId": "S029",
+      "name": "NVCTI (National Virtual Campus Training Institute)",
+      "landmarks": "Training center, skill development, digital learning facility"
+    },
+    {
+      "stopId": "S030",
+      "name": "I2H (Innovation to Incubation Hub)",
+      "landmarks": "Startup hub, innovation center, incubation facility, entrepreneurship"
+    },
+    {
+      "stopId": "S031",
+      "name": "IRH (Indian Resource Hub)",
+      "landmarks": "Resource center, information hub, academic support facility"
+    }
+  ]
+}
